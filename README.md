@@ -42,7 +42,7 @@ Submit Jupyter Notebook (.ipynb file) with data cleaning, EDA, and correlation a
 
 ### Part 2: Inferential Analysis and Insights (Week 2 Submission)
 Dataset: Download it from this link <a href="#">Link Text</a> </br>
-Instructions
+</br>
 #### Dataset Overview
 
 Continue using the same dataset from Week 1.
