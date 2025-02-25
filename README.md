@@ -67,6 +67,6 @@ Debt-to-Asset Ratio = Debt / Assets
 Current Ratio = Assets / Liabilities
 Compare these ratios to industry benchmarks and provide insights.
 e. Deliverables
-
+</br>
 Submit Jupyter Notebook (.ipynb file) with hypothesis testing, trend analysis, and financial ratio calculations and at the end of the notebook use a Markdown cell to summarize your findings from the descriptive statistics and EDA and discuss any anomalies or trends you noticed.
 
