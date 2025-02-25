@@ -37,3 +37,36 @@ Identify which variables are strongly correlated and discuss possible reasons.
 ##### d. Deliverables
 
 Submit Jupyter Notebook (.ipynb file) with data cleaning, EDA, and correlation analysis and at the end of the notebook use a Markdown cell to summarize your findings from the descriptive statistics and EDA and discuss any anomalies or trends you noticed."
+</br>
+</br>
+
+### Part 2: Inferential Analysis and Insights (Week 2 Submission)
+Dataset: Download it from this link <a href="#">Link Text</a>
+Instructions
+#### Dataset Overview
+
+Continue using the same dataset from Week 1.
+#### Tasks to Perform
+##### a. Hypothesis Testing
+
+Scenario 1: Test if the average monthly profit is greater than a predefined benchmark value (e.g., $10,000).
+Scenario 2: Test if the average revenue and expenses are significantly different.
+Use t-tests or z-tests where applicable.
+##### b. P-value Interpretation
+
+For each hypothesis test, explain the p-value and whether you reject or fail to reject the null hypothesis.
+##### c. Trend Analysis
+
+Perform a year-over-year analysis of revenue and profit growth.
+Calculate growth rates and identify periods of significant change.
+##### d. Financial Ratios and Insights
+
+Calculate financial ratios such as:
+Profit Margin = Profit / Revenue
+Debt-to-Asset Ratio = Debt / Assets
+Current Ratio = Assets / Liabilities
+Compare these ratios to industry benchmarks and provide insights.
+e. Deliverables
+
+Submit Jupyter Notebook (.ipynb file) with hypothesis testing, trend analysis, and financial ratio calculations and at the end of the notebook use a Markdown cell to summarize your findings from the descriptive statistics and EDA and discuss any anomalies or trends you noticed.
+
