@@ -2,7 +2,7 @@
 Analyzing a company's financial data using descriptive statistics and visualizations to evaluate its financial health and uncover trends.
 
 ## Objective
-The goal of this project is to analyze a company's financial data to assess its financial health using various descriptive and inferential statistical methods. Students will use tools like Python or Excel to complete the analysis and prepare actionable insights based on the findings.
+The goal of this project is to analyze a company's financial data to assess its financial health using various descriptive and inferential statistical methods. I used tools like Python or Excel to complete the analysis and prepare actionable insights based on the findings.
 
 ### Part 1: Descriptive Analysis and Data Exploration (Week 1 Submission)
 #### Dataset Overview 
