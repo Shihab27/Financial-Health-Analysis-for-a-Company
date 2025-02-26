@@ -70,5 +70,5 @@ e. Deliverables
 
 </br>
 
-Submit Python file (.py file) with hypothesis testing, trend analysis, and financial ratio calculations and at the end of the notebook use a Markdown cell to summarize your findings from the descriptive statistics and EDA and discuss any anomalies or trends you noticed.
+##### Submit Python file (.py file) with hypothesis testing, trend analysis, and financial ratio calculations and at the end of the notebook use a Markdown cell to summarize your findings from the descriptive statistics and EDA and discuss any anomalies or trends you noticed.
 
