@@ -4,7 +4,7 @@ Analyzing a company's financial data using descriptive statistics and visualizat
 ## Objective
 The goal of this project is to analyze a company's financial data to assess its financial health using various descriptive and inferential statistical methods. I used tools like Python or Excel to complete the analysis and prepare actionable insights based on the findings.
 
-### Part 1: Descriptive Analysis and Data Exploration (Week 1 Submission)
+### Part 1: Descriptive Analysis and Data Exploration 
 #### Dataset Overview 
 
 Use a sample dataset containing the following fields: 
@@ -39,7 +39,7 @@ Submit Jupyter Notebook (.ipynb file) with data cleaning, EDA, and correlation a
 </br>
 </br>
 
-### Part 2: Inferential Analysis and Insights (Week 2 Submission)
+### Part 2: Inferential Analysis and Insights 
 Dataset: Download it from this link <a href="https://github.com/Shihab27/Financial-Health-Analysis-for-a-Company/blob/main/financial_health_analysis_dataset.csv">Link </a> </br>
 </br>
 #### Dataset Overview
